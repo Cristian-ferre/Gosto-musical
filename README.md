@@ -23,6 +23,19 @@
   <li>manipulacões </li>
  </ul>
  
+ <h2>etapas</h2>
+ <ul>
+ <li> Iniciar a estrutura do layout (HTML e CSS).</li>
+ <liCriar o player de audio</li>
+ <li>Fazer o player tocar automaticamente quando a janela abrir</li>
+ <li>Ok, me arrependi, o player tocando automaticamente é horrível. Remova esta opção de autoplay</li>
+ <li>Alimentar o player com os dados de audio</li>
+
+ <li>Refatorar: Criar um objeto para guardar o estado, funcionalidades e configurações do player</li>
+ <li>Quando o audio finalizar, iniciar o próximo da lista</li>
+ <li>Quando chegar no último audio, voltar a reproduzir o primeiro.</li>
+</ul>
+ 
  
 
  <video autoplay loop src = "https://user-images.githubusercontent.com/99483009/158001906-1b5023bf-9397-4b76-a1e0-c05997a276fe.mp4"> </video>
