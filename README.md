@@ -1,4 +1,4 @@
-<h1> Gosto-musical ✔️ </h1>
+<h1 color: rgb(82, 236, 95);> Gosto-musical ✔️ </h1>
 
 <h2> objetivo</h2>
 <p> um álbum de músicas que você goste, mas não só isso. Essas músicas precisam refletir aspectos das sua vida.</p>
@@ -24,8 +24,8 @@
  </ul>
  
  
- ![video do projeto](https://user-images.githubusercontent.com/99483009/158001789-27389f89-e996-4b82-9b7c-30b22697aaee.mp4)
- https://user-images.githubusercontent.com/99483009/158001789-27389f89-e996-4b82-9b7c-30b22697aaee.mp4
+
+ <video autoplay loop src = "https://user-images.githubusercontent.com/99483009/158001906-1b5023bf-9397-4b76-a1e0-c05997a276fe.mp4"> </video>
 
  
  
