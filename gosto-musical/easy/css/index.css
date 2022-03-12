@@ -1,0 +1,91 @@
+@charset "utf-8";
+
+@import "https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/3.0.1/iconfont/material-icons.min.css";
+@import "https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@600&family=Roboto:ital,wght@1,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@600&family=Fredoka&family=Roboto:ital,wght@1,300&display=swap');
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+
+}
+
+.header{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    background: rgb(34, 34, 34);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header h1 {
+    color: rgb(82, 236, 95);
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+}
+
+.header > p {
+    color: #fff;
+    max-width: 400px;
+    margin: 0 auto;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2em;
+}
+
+.material-icons2 {
+    color: #fff;
+    margin: 20px 0;
+}
+
+.principal{
+    
+    flex-direction: column;
+    align-items: center;
+    margin: 120px 0;
+}
+#player {
+    background-color: #fff;
+    width: 100%;
+    max-width: 375px;
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12), 0px 3px 1px -2px rgba(0, 0, 0, 0.12), 0px 1px 5px 0px rgba(0, 0, 0, 0.2)   ; /*(fora)  eixo x - eixo y - quanto bora - esoalhamento - cor (dentro)*/
+    border-radius: 10px;
+}
+
+.card {
+    box-shadow: none;
+    margin: 0;
+}
+
+h4 {
+    color: rgb(82, 236, 95);
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+}
+
+.card-image {
+    background: url("https://placehold.it/500") no-repeat center center / cover;
+    height: 200px;
+  }
+
+.audiu {
+    width: 100%;
+    margin-top: 30px;
+}
+
+
