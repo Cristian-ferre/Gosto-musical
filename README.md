@@ -28,7 +28,6 @@
  <li> Iniciar a estrutura do layout (HTML e CSS).</li>
  <liCriar o player de audio</li>
  <li>Fazer o player tocar automaticamente quando a janela abrir</li>
- <li>Ok, me arrependi, o player tocando automaticamente é horrível. Remova esta opção de autoplay</li>
  <li>Alimentar o player com os dados de audio</li>
 
  <li>Refatorar: Criar um objeto para guardar o estado, funcionalidades e configurações do player</li>
