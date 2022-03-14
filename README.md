@@ -35,10 +35,24 @@
  <li>Quando o audio finalizar, iniciar o próximo da lista</li>
  <li>Quando chegar no último audio, voltar a reproduzir o primeiro.</li>
 </ul>
+
+<video style = "width: 100%;"  autoplay loop src = "https://user-images.githubusercontent.com/99483009/158001906-1b5023bf-9397-4b76-a1e0-c05997a276fe.mp4"> </video>
+
+<h2>Autor</h2>
+<h3>Cristian ferreira de oliveira</h3>
+<dl>
+  <dt>linkedin:</dt>
+  <dd>https://www.linkedin.com/in/cristianfdeoliveira/</dd>
+  
+  <dt>e-mail:</dt>
+  <dd>cristianferreiradeoliveira.ti@gmail.com</dd>
+  
+  <dt>telefone</dt>
+  <dd>11 942511914</dd>
+</dl>
  
  
 
- <video autoplay loop src = "https://user-images.githubusercontent.com/99483009/158001906-1b5023bf-9397-4b76-a1e0-c05997a276fe.mp4"> </video>
 
  
  
